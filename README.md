@@ -1,6 +1,6 @@
 # Daily Python Logic Practice
 
-This repository is dedicated to improving logical thinking and problem-solving skills through **daily Python practice**.  
+This repository is dedicated to improving logical thinking and problem-solving skills through **daily Python practice** of Marianne.  
 Each script focuses on fundamental programming concepts such as loops, conditionals, functions, data structures, and algorithmic reasoning.
 
 ## Purpose
